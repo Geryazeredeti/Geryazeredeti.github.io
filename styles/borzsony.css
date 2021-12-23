@@ -1,0 +1,32 @@
+body {
+    background:linear-gradient(to top right, #cfcf6c 0%, #b9ebb9 100%);
+    font-family: 'Times New Roman';
+}
+
+h1 {
+    text-align: center;
+}
+ul ul li {
+    overflow: hidden;
+}
+.egyeb li{
+    overflow: hidden;
+}
+.panorama {
+    z-index:-1;
+    bottom: 1175px;
+    position: relative;
+    left: 75%;
+}
+.konyvtar {
+    z-index:-1;
+    bottom: 1175px;
+    position: relative;
+    left: 75%;
+}
+.vasut {
+    z-index:-1;
+    bottom: 1175px;
+    position: relative;
+    left: 75%;
+}

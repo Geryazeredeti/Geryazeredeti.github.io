@@ -1,0 +1,5 @@
+body {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background: linear-gradient(to bottom left, rgb(255, 251, 0) 0%, rgb(0, 148, 153) 100%);
+    background-repeat: no-repeat;
+}
